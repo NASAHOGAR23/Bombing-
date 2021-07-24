@@ -13,10 +13,10 @@
 * * `apt-get upgrade -y`
 * `pkg install git -y`
 * * `pkg insall python -y`
-* *  pkg install python2 -y
+* *  `pkg install python2 -y`
 
 * `pip install requests`
-* * git clone https://github.com/NASAHOGAR23/Bombing-/
+* * `git clone https://github.com/NASAHOGAR23/Bombing-/`
 * `cd Bombing-`
 * * `ls`
 
