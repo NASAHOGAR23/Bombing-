@@ -1,7 +1,7 @@
 # Bombing-
 <h2>
 <p align="center" color='#686868ff'>NASA HOGAR<p/>
- <p align="center">NASA HOGAR</p>
+ 
  </h2>
 ### Auther :
 <p align="center">
@@ -14,7 +14,7 @@
 * `pkg install git -y`
 * * `pkg insall python -y`
 * `pip install requests`
-* * ` git clone https://github.com/NASAHOGAR23/Bombing-/'
+* * git clone https://github.com/NASAHOGAR23/Bombing-/
 * `cd Bombing-`
 * * `ls`
 
