@@ -19,7 +19,7 @@ print(""""
 
 number=str(input("Enter The Number(without:+880):")
 
-amount=int(input("Enter The Amount:"))
+amount=int(input("Enter The Amount:")
 
 api="https://stage.bioscopelive.com/en/login/send-otp?phone=88"+number+"&operator=bd-otp"
 
